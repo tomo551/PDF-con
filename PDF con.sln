@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pdfimg", "pdfimg\pdfimg.csproj", "{86FDE13B-3EF5-495E-80FA-2FA1D09A878D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PDF変換SETUP", "PDF変換SETUP\PDF変換SETUP.vdproj", "{487FA09F-4035-41E4-97D3-82F9BC2D657B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86FDE13B-3EF5-495E-80FA-2FA1D09A878D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86FDE13B-3EF5-495E-80FA-2FA1D09A878D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86FDE13B-3EF5-495E-80FA-2FA1D09A878D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86FDE13B-3EF5-495E-80FA-2FA1D09A878D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487FA09F-4035-41E4-97D3-82F9BC2D657B}.Debug|Any CPU.ActiveCfg = Debug
+		{487FA09F-4035-41E4-97D3-82F9BC2D657B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40C1FAAC-08ED-4A7E-A292-43C18D52C191}
+	EndGlobalSection
+EndGlobal

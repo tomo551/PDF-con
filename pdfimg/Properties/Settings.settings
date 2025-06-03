@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="pdfimg.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="LastFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">JPEG</Value>
+    </Setting>
+    <Setting Name="LastColorMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">フルカラー</Value>
+    </Setting>
+    <Setting Name="LastDpi" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
