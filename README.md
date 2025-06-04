@@ -142,7 +142,7 @@ dotnet publish -c Release -r win-x64 --self-contained true
 
 - 🐛 バグ報告: [Issues](https://github.com/tomo551/PDF-con/issues)
 - 💡 機能要望: [Issues](https://github.com/tomo551/PDF-con/issues)
-- 📧 その他のお問い合わせ: [適切な連絡先]
+- 📧 その他のお問い合わせ: [---]
 
 ---
 
